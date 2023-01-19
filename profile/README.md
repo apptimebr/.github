@@ -15,8 +15,8 @@ Apptime is a brazillian project developed by students to make tutorials, templat
 ## Get involved!
 
 Follow us on our social media:
-- [Instagram](http://instagram.com/apptimebr)
-- [LinkedIn](https://www.linkedin.com/company/apptimebr/)
+- [Instagram](http://instagram.com/apptimedev)
+- [LinkedIn](https://www.linkedin.com/company/apptimedev/)
 - [Forus](https://forus.app/apptimebr)
 
 If you like our work, you can donate to us:
