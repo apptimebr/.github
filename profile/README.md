@@ -16,8 +16,8 @@ Apptime is a brazillian project developed by students to make tutorials, templat
 
 Follow us on our social media:
 - [Instagram](http://instagram.com/apptimedev)
-- [LinkedIn](https://www.linkedin.com/company/apptimedev/)
-- [Forus](https://forus.app/apptimebr)
+- [LinkedIn](https://www.linkedin.com/company/apptimedev)
+- [Forus](https://forus.app/apptimedev)
 
 If you like our work, you can donate to us:
 - Bitcoin Wallet - bc1qgzluzlz0l3t8slqwnl2557tvekh4qkcerkgrhu
