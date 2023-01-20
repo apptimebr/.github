@@ -4,11 +4,11 @@ Apptime is a brazillian project developed by students to make tutorials, templat
 
 ## Visit the Apptime website and other projects!
 
-- ### [Apptime](https://apptime.com.br/)
+- ### [Apptime](https://apptime.dev/)
 - ### [Forus App](https://forus.app/)
 - ### [Forus Community](https://github.com/foruscommunity/)
 
-<a href="https://apptime.com.br" target="_blank"><img src="https://apptime.com.br/images/website-preview-en.jpg" target="_blank"></a>
+<a href="https://apptime.dev" target="_blank"><img src="https://apptime.dev/images/website-preview-en.jpg" target="_blank"></a>
 
 ---
 
