@@ -7,12 +7,14 @@ Apptime is a brazillian project developed by students to make tutorials, templat
 - ### [Apptime](https://apptime.dev/)
 - ### [Forus App](https://forus.app/)
 - ### [Forus Community](https://github.com/foruscommunity/)
-- ### [Pinkie App](https://pinkie.app/)
-- ### [Velvie App](https://velvie.app/)
+<!-- - ### [Pinkie App](https://pinkie.app/) -->
+<!-- - ### [Velvie App](https://velvie.app/) -->
 <!-- - ### [Chatie](https://chatie.app/) -->
 <!-- - ### [Financ](https://financ.app/) -->
 <!-- - ### [Mation](https://mation.app/) -->
 <!-- - ### [Vipn](https://vipn.app/) -->
+<!-- - ### [Vipn](https://flybit.app/) -->
+<!-- - ### [Vipn](https://aifind.app/) -->
 
 <a href="https://apptime.dev" target="_blank"><img src="https://apptime.dev/images/website-preview-en.jpg" target="_blank"></a>
 
