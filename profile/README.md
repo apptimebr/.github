@@ -4,9 +4,11 @@ Apptime is a brazillian project developed by students to make tutorials, templat
 
 ## Visit the Apptime website and other projects!
 
-- ### [Apptime](https://apptime.dev/)
-- ### [Forus App](https://forus.app/)
-- ### [Forus Community](https://github.com/foruscommunity/)
+- ### ***[Apptime](https://apptime.dev/)***
+- ### ***[Forus App](https://forus.app/)***
+- ### ***[Forus Community](https://github.com/foruscommunity/)***
+- ### ***[AI Find](https://aifind.app/)***
+- ### ***[Flybit](https://flybit.app/)***
 <!-- - ### [Pinkie App](https://pinkie.app/) -->
 <!-- - ### [Velvie App](https://velvie.app/) -->
 <!-- - ### [Chatie](https://chatie.app/) -->
@@ -23,21 +25,26 @@ Apptime is a brazillian project developed by students to make tutorials, templat
 ## Get involved!
 
 Follow us on our social media:
-- [Instagram](http://instagram.com/apptimedev)
-- [LinkedIn](https://www.linkedin.com/company/apptimedev)
-- [Forus](https://forus.app/apptimedev)
+- ### ***[Instagram](http://instagram.com/apptimedev)***
+- ### ***[LinkedIn](https://www.linkedin.com/company/apptimedev)***
+- ### ***[Forus](https://forus.app/apptimedev)***
 
-If you like our work, you can donate to us:
-- Bitcoin Wallet - bc1qgzluzlz0l3t8slqwnl2557tvekh4qkcerkgrhu
-- Ethereum / Polygon Wallet - 0x36ae07dfB1A61C558bB3de508214A0020FB263de
+## If you like our work, you can donate to us:
+### Bitcoin Wallet:
+`bc1qtaht59luh7lcxzshcgxelhm4520vgzvn27wfa7`
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/forus) 
+### Ethereum / Polygon Wallet:
+`0x790dfDA9a22B14f566355dBdC19e70dA876F9A83`
+
+### Buy me a coffee:
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/forus)
 
 ---
 
-## [Click here](https://github.com/apptimedev/collection) to check out a collection of tutorials and best practices for web, mobile and back-end
-
 ## Repositories
+
+*[Click here](https://github.com/apptimedev/collection) to check out a collection of tutorials and best practices for web, mobile and back-end.*
 
 Start here and see usage examples and packages for web, mobile and back-end:
 
