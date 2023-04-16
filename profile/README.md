@@ -7,7 +7,7 @@ Apptime is a brazillian project developed by students to make tutorials, templat
 - ### ***[Apptime](https://apptime.dev/)***
 - ### ***[Forus App](https://forus.app/)***
 - ### ***[Forus Community](https://github.com/foruscommunity/)***
-- ### ***[AI Find](https://aifind.app/)***
+<!-- - ### ***[AI Find](https://aifind.app/)*** -->
 <!-- - ### ***[Flybit](https://flybit.app/)*** -->
 <!-- - ### ***[Pinkie](https://pinkie.app/)*** -->
 <!-- - ### ***[Velvie](https://velvie.app/)*** -->
@@ -35,7 +35,7 @@ Follow us on our social media:
 
 ### Buy me a coffee:
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/forus)
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/apptime)
 
 ---
 
