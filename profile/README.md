@@ -5,6 +5,7 @@ Apptime is a brazillian project developed by students to make tutorials, templat
 ## Visit the Apptime website and other projects!
 
 - ### ***[Apptime](https://apptime.dev/)***
+- ### ***[Apptime Blog](https://blog.apptime.dev/)***
 - ### ***[Forus App](https://forus.app/)***
 - ### ***[Forus Community](https://github.com/foruscommunity/)***
 <!-- - ### ***[AI Find](https://aifind.app/)*** -->
