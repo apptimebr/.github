@@ -16,7 +16,7 @@ Apptime is a brazillian project developed by students to make tutorials, templat
 <!-- - ### ***[Financ](https://financ.app/)*** -->
 <!-- - ### ***[Mation](https://mation.app/)*** -->
 
-<a href="https://apptime.dev" target="_blank"><img src="https://apptime.dev/images/website-preview-en.jpg" target="_blank"></a>
+<a href="https://apptime.dev" target="_blank"><img src="https://apptime.dev/images/website-preview-pt.jpg" target="_blank"></a>
 
 ---
 
