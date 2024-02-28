@@ -1,20 +1,11 @@
 # Welcome to Apptime Developers 👋
 
-Apptime is a brazillian project developed by students to make tutorials, templates and source codes available for free to use in any other projects.
+Apptime is a startup created by Brazilian students to offer services for developing websites and applications with maximum technology and minimum costs.
 
 ## Visit the Apptime website and other projects!
 
 - ### ***[Apptime](https://apptime.dev/)***
-- ### ***[Apptime Blog](https://blog.apptime.dev/)***
-- ### ***[Forus App](https://forus.app/)***
 - ### ***[Forus Community](https://github.com/foruscommunity/)***
-<!-- - ### ***[AI Find](https://aifind.app/)*** -->
-<!-- - ### ***[Flybit](https://flybit.app/)*** -->
-<!-- - ### ***[Pinkie](https://pinkie.app/)*** -->
-<!-- - ### ***[Velvie](https://velvie.app/)*** -->
-<!-- - ### ***[Vipster](https://vipster.app/)*** -->
-<!-- - ### ***[Financ](https://financ.app/)*** -->
-<!-- - ### ***[Mation](https://mation.app/)*** -->
 
 <a href="https://apptime.dev" target="_blank"><img src="https://apptime.dev/images/website-preview-en.jpg" target="_blank"></a>
 
