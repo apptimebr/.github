@@ -1,4 +1,4 @@
-# Welcome to Apptime Developers 👋
+# Welcome to Apptime 🚀
 
 Apptime is a startup created by Brazilian students to offer services for developing websites and applications with maximum technology and minimum costs.
 
