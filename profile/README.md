@@ -5,7 +5,6 @@ Apptime is a startup created by Brazilian students to offer services for develop
 ## Visit the Apptime website and other projects!
 
 - ### ***[Apptime](https://apptime.dev/)***
-- ### ***[Forus Community](https://github.com/foruscommunity/)***
 
 <a href="https://apptime.dev" target="_blank"><img src="https://apptime.dev/images/website-preview-en.jpg" target="_blank"></a>
 
