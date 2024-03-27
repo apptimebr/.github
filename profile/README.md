@@ -27,16 +27,3 @@ Follow us on our social media:
 ### Buy me a coffee:
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/apptime)
-
----
-
-## Repositories
-
-*[Click here](https://github.com/apptimedev/collection) to check out a collection of tutorials and best practices for web, mobile and back-end.*
-
-Start here and see usage examples and packages for web, mobile and back-end:
-
-<!-- alphabetical -->
-* [flutter_app_template](https://github.com/apptimedev/flutter_app_template): Essential Flutter Mobile example.
-* [nuxt-web-template](https://github.com/apptimedev/nuxt-web-template): Essential Vue/Nuxt example.
-* [go-rest-api-template](https://github.com/apptimedev/go-rest-api-template): Essential Go Rest API example.
