@@ -1,12 +1,12 @@
 # Welcome to Apptime 🚀
 
-Apptime is a startup created by Brazilian students to offer services for developing websites and applications with maximum technology and minimum costs.
+Apptime is a SaaS for creating pages in a completely easy and fast way created by Brazilian indie hackers.
 
 ## Visit the Apptime website and other projects!
 
-- ### ***[Apptime](https://apptime.dev/)***
+- ### ***[Apptime](https://appti.me/)***
 
-<a href="https://apptime.dev" target="_blank"><img src="https://apptime.dev/images/website-preview.jpg" target="_blank"></a>
+<a href="https://apptime.dev" target="_blank"><img src="https://appti.me/images/website-preview.jpg" target="_blank"></a>
 
 ---
 
